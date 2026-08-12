@@ -6,3 +6,4 @@ def fibonacci(n):
     return secuencia[:n]
 
 print("Primeros 8 números de Fibonacci:", fibonacci(8))
+print("Primeros 12 números de Fibonacci:", fibonacci(12))
