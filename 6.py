@@ -3,3 +3,4 @@ def es_palindromo(palabra):
     return palabra == palabra[::-1]
 
 print("¿'Reconocer' es palíndromo?", es_palindromo("Reconocer"))
+print("¿'Python' es palíndromo?", es_palindromo("Python"))
