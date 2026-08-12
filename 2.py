@@ -2,4 +2,4 @@ def sumar(a, b):
     return a + b
 
 resultado = sumar(5, 7)
-print("La suma es:", resultado)
+print("La suma es la siguiente:", resultado)
