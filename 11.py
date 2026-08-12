@@ -8,3 +8,4 @@ def es_primo(numero):
 
 print("¿El 11 es primo?", es_primo(11))
 print("¿El 12 es primo?", es_primo(12))
+print("¿El 13 es primo?", es_primo(13))
