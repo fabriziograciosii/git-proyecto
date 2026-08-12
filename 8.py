@@ -7,3 +7,4 @@ def contar_vocales(frase):
     return contador
 
 print("Vocales en 'Murcielago':", contar_vocales("Murcielago"))
+print("Vocales en 'Python es genial':", contar_vocales("Python es genial"))
