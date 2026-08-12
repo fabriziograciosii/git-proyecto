@@ -3,3 +3,4 @@ def celsius_a_fahrenheit(celsius):
 
 temp_c = 25
 print(f"{temp_c}°C equivalen a {celsius_a_fahrenheit(temp_c)}°F")
+print(f"{temp_c}°C equivalen a {celsius_a_fahrenheit(temp_c)}°F")
