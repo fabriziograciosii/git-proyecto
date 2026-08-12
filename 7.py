@@ -6,4 +6,4 @@ def numero_mayor(lista):
     return mayor
 
 numeros = [4, 12, 7, 45, 2]
-print("El número mayor es:", numero_mayor(numeros))
+print("El número mayor es el siguiente:", numero_mayor(numeros))
