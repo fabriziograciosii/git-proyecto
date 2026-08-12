@@ -4,4 +4,4 @@ def factorial(n):
         resultado *= i
     return resultado
 
-print("El factorial de 5 es:", factorial(5))
+print("El factorial de 5 es este:", factorial(5))
