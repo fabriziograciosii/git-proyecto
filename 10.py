@@ -3,3 +3,4 @@ def tabla_multiplicar(numero):
         print(f"{numero} x {i} = {numero * i}")
 
 tabla_multiplicar(7)
+print("Tabla de multiplicar del 7 completada.")
